@@ -57,6 +57,7 @@ public class Main {
                     break;
                 case "Q":
                     salir = true;
+                    System.out.println("See you later : D");
             }
         }
     }
